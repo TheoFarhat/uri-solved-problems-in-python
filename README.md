@@ -1,4 +1,4 @@
-# uri-solved-problems-in-python
-Uri or beecrowd exercices that I solved during my first period, using Python.
+# uri-solved-problems-
+Uri or beecrowd exercices that I solve during my graduation.
 The exercices are not optimized. 
-Most exercices are in portuguese language. 
+Some exercicies are in portuguese language. 
